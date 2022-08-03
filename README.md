@@ -2,17 +2,12 @@
 
 ![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)
 
-We want news readers to start discussions about news they care about and feel empowered by it.
-
 Contents:
 
 1. [Introduction](#introduction)
 2. [Requirements](#requirements)
 3. [Setup](#setup)
 4. [Usage](#usage)
-5. [Future optimisations](#future-optimisations)
-6. [Acknowledgements](#acknowledgements)
-7. [Team](#team)
 
 # 1. Introduction
 
@@ -41,9 +36,6 @@ KEY = 'key'  # insert your newsapi key here
 
 # 4. Usage
 
-### Demo
-
-<img src="https://github.com/ahthon/jolt-telegram-news-bot/blob/master/jolt_demo.gif" alt="Jolt demo" height="450" align="center">
 
 ### Commands
 Jolt uses slash commands to execute tasks.
