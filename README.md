@@ -68,22 +68,4 @@ Users may also:
 * toggle to other stories of the same topic using the story's navigation buttons, `Prev` or `Next`;
 * or return to the main menu with the `Return to stories` button.
 
-# 5. Future optimisations
 
-What we have now is a working prototype. We hope to improve and add on to Jolt's current capabilities. These include:
-
-* A user interface for news personalisation and scheduling.
-* Having a better user experience (UX), such as smoother tutorials for first-time users.
-* Being able to handle conversations in a casual or more organic manner.
-* Being able to subsrcribe to specific news tags or keywords.
-* Being able 'like' news stories to gauge its popularity.
-* Having interactive quizzes.
-* Enabling different types of content such as videos and podcasts to be easily accessible.
-
-# 6. Acknowledgements
-
-We would like to thank our news partners at The Straits Times, Sandra Davie and Azhar Kasman, and our mentor at Google, Kate Beddoe, for their expert guidance. We would also like to extend our thanks to our first prototype users, Lin Shan, Gracia, and Melissa, for their invaluable feedback. Lastly, we want to thank our instructors Jessica Tan and Joan Kelly for their continuous support and encouragement during our design thinking process.
-
-# 7. Team
-
-Anthony ([ahthon](https://github.com/ahthon)), Christy, Iskandar, Kenneth, Michael, and Theophilus.
