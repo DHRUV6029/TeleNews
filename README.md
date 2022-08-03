@@ -11,7 +11,7 @@ Contents:
 
 # 1. Introduction
 
-[Prototype] Jolt is a Telegram bot for users to read Singapore news and to create their own personal news bulletins.
+[Prototype] Jolt is a Telegram bot for users to read news and to create their own personal news bulletins.
 
 # 2. Requirements
 
