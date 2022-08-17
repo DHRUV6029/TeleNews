@@ -1,4 +1,4 @@
-# Jolt, a Telegram news bot
+# TeleNews, a Telegram news bot
 
 ![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)
 
